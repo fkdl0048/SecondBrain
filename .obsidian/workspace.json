@@ -88,19 +88,31 @@
             }
           },
           {
-            "id": "711a3e40db83b828",
+            "id": "0e2e3ca47f7742dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dddd.md",
+                "file": "무제 파일 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3a497b5bee833ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xxx.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "dddd.md",
+                "file": "xxx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "dddd.md",
+                "file": "xxx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,24 +218,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "dddd.md"
+                "file": "xxx.md"
               }
             }
-          },
-          {
-            "id": "d3a0bf20f46c15be",
-            "type": "leaf",
-            "state": {
-              "type": "git-history-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -235,12 +239,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "711a3e40db83b828",
+  "active": "e3a497b5bee833ef",
   "lastOpenFiles": [
-    "xxx.md",
     "dddd.md",
-    "무제 파일 2.md",
     "무제 파일 3.md",
+    "xxx.md",
+    "무제 파일 2.md",
     "무제 파일 1.md",
     "무제 파일.md",
     "Test3.md",
