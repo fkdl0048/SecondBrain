@@ -62,9 +62,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b1454192c2613199",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -130,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "무제 파일 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "무제 파일 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "무제 파일 1.md"
               }
             }
           }
@@ -191,10 +203,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "5d0e900fc92546b6",
+  "active": "b1454192c2613199",
   "lastOpenFiles": [
-    "Test3.md",
     "무제 파일.md",
+    "무제 파일 1.md",
+    "Test3.md",
     "Test2.md",
     "Test.md"
   ]
