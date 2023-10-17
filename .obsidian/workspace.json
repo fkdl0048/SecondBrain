@@ -86,9 +86,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "0e2e3ca47f7742dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "무제 파일 3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e3a497b5bee833ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "xxx.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -154,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "xxx.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일 2.md",
+                "file": "xxx.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일 2.md"
+                "file": "xxx.md"
               }
             }
           }
@@ -215,10 +239,12 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4b8a2b51b19055bc",
+  "active": "e3a497b5bee833ef",
   "lastOpenFiles": [
-    "무제 파일 1.md",
+    "무제 파일 3.md",
+    "xxx.md",
     "무제 파일 2.md",
+    "무제 파일 1.md",
     "무제 파일.md",
     "Test3.md",
     "Test2.md",
