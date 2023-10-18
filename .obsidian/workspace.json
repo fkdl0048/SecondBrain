@@ -21,14 +21,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/나의 첫 메모.md",
+                "file": "4. Archive/영구 노트 테스트.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ea3b38fd863ff5f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/Resource.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1fa86e1a1d0f2e6f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2. Area/Area.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9af9a1db57297e09",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1. Project/Project.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -94,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/나의 첫 메모.md",
+                "file": "1. Project/Project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/나의 첫 메모.md",
+                "file": "1. Project/Project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/나의 첫 메모.md"
+                "file": "1. Project/Project.md"
               }
             }
           },
@@ -166,12 +202,15 @@
   },
   "active": "3f8623a79c8c1c95",
   "lastOpenFiles": [
+    "2. Area/Area.md",
+    "1. Project/Project.md",
+    "3. Resource/Resource.md",
+    "4. Archive/영구 노트 테스트.md",
+    "0. Inbox/나의 첫 메모.md",
     "3. Resource",
     "2. Area",
     "1. Project",
     "conflict-files-obsidian-git.md",
-    "0. Inbox/나의 첫 메모.md",
-    "4. Archive/영구 노트 테스트.md",
     "Template/ZettelKasten.md",
     "Template",
     "4. Archive",
