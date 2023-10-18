@@ -26,21 +26,9 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "4c97b9b1e92ae25f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conflict-files-obsidian-git.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -106,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0. Inbox/나의 첫 메모.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "0. Inbox/나의 첫 메모.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "0. Inbox/나의 첫 메모.md"
               }
             }
           },
@@ -176,14 +164,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4c97b9b1e92ae25f",
+  "active": "3f8623a79c8c1c95",
   "lastOpenFiles": [
-    "0. Inbox/나의 첫 메모.md",
+    "3. Resource",
+    "2. Area",
+    "1. Project",
     "conflict-files-obsidian-git.md",
-    "1. 영구노트/영구 노트 테스트.md",
+    "0. Inbox/나의 첫 메모.md",
+    "4. Archive/영구 노트 테스트.md",
     "Template/ZettelKasten.md",
     "Template",
-    "1. 영구노트",
+    "4. Archive",
     "0. Inbox",
     "Test3.md",
     "dddd.md",
