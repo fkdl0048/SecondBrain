@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "2773ac31dcef2380",
+        "id": "23e5e0eba7cc26e5",
         "type": "tabs",
         "children": [
           {
-            "id": "f46e24790351a59b",
+            "id": "1bada64b55e3d38e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/Inbox.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Inbox/Inbox.md"
-              }
+              "state": {}
             }
           },
           {
@@ -155,14 +147,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f46e24790351a59b",
+  "active": "1bada64b55e3d38e",
   "lastOpenFiles": [
+    "4. Resource/옵시디언 사용 룰.md",
+    "0. Inbox/Inbox.md",
     "Templates/ZettelKasten.md",
     "무제 파일.canvas",
-    "4. Resource/옵시디언 사용 룰.md",
     "5. Archive/Archive.md",
     "3. Area/Area.md",
-    "0. Inbox/Inbox.md",
     "Res/Res.md",
     "4. Resource/Resource.md",
     "2. Project/Project.md",
