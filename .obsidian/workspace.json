@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/영구 노트 테스트.md",
+                "file": "5. Archive/영구 노트 테스트.md",
                 "mode": "source",
                 "source": false
               }
@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/Resource.md",
+                "file": "4. Resource/Resource.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,7 +45,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Area/Area.md",
+                "file": "3. Area/Area.md",
                 "mode": "source",
                 "source": false
               }
@@ -202,19 +202,21 @@
   },
   "active": "3f8623a79c8c1c95",
   "lastOpenFiles": [
+    "Res",
+    "1. Permanents",
     "무제 폴더",
-    "1. Project/Project.md",
-    "2. Area/Area.md",
-    "3. Resource/Resource.md",
-    "4. Archive/영구 노트 테스트.md",
+    "2. Project/Project.md",
+    "3. Area/Area.md",
+    "4. Resource/Resource.md",
+    "5. Archive/영구 노트 테스트.md",
     "0. Inbox/옵시디언 사용 룰.md",
-    "3. Resource",
-    "2. Area",
-    "1. Project",
+    "4. Resource",
+    "3. Area",
+    "2. Project",
     "conflict-files-obsidian-git.md",
-    "Template/ZettelKasten.md",
-    "Template",
-    "4. Archive",
+    "Templates/ZettelKasten.md",
+    "Templates",
+    "5. Archive",
     "0. Inbox",
     "Test3.md",
     "dddd.md",
