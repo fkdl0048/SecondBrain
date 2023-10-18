@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f39255c186409e5b",
+        "id": "1bf4e944e24c6585",
         "type": "tabs",
         "children": [
           {
-            "id": "0aa6c404ab50cc23",
+            "id": "f8ecb9bda19278d2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -155,34 +155,35 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "0aa6c404ab50cc23",
+  "active": "f8ecb9bda19278d2",
   "lastOpenFiles": [
-    "2. Project/BRIDGE/DEV/BRIDGE DEV.md",
-    "2. Project/BRIDGE/Archive/BRIDGE Archive.md",
-    "2. Project/BRIDGE/BookClub/BRIDGE BookClub.md",
-    "2. Project/BRIDGE/Archive",
-    "3. Area/Area.md",
-    "2. Project/BRIDGE/BookClub",
+    "1. Permanents/Permanents.md",
+    "5. Archive/Archive.md",
+    "Res/Res.md",
+    "0. Inbox/Inbox.md",
     "3. Area/나의 퀘렌시아.md",
+    "Templates/Date Memo.md",
+    "Templates/ZettelKasten.md",
+    "5. Archive/BRIDGE/DEV/BRIDGE DEV.md",
+    "5. Archive/BRIDGE/Archive/BRIDGE Archive.md",
+    "5. Archive/BRIDGE/BookClub/BRIDGE BookClub.md",
+    "5. Archive/BRIDGE/Archive",
+    "3. Area/Area.md",
+    "5. Archive/BRIDGE/BookClub",
     "4. Resource/옵시디언 사용 룰.md",
-    "2. Project/BRIDGE/DEV",
+    "5. Archive/BRIDGE/DEV",
     "무제 폴더",
     "2. Project/BRIDGE/무제 파일.md",
     "0. Inbox/무제 파일.md",
-    "2. Project/BRIDGE",
+    "5. Archive/BRIDGE",
     "2. Project/Project.md",
     "2. Project/GameOver/프로젝트 개발 일지(GameOver).md",
-    "5. Archive/Archive.md",
     "2. Project/GameOver",
     "2. Project/Blog/나의 일정 관리기.md",
-    "0. Inbox/Inbox.md",
     "2. Project/Blog/더 나은 도구, 더 좋은 관리.md",
     "2. Project/Blog",
-    "Templates/ZettelKasten.md",
     "무제 파일.canvas",
-    "Res/Res.md",
     "4. Resource/Resource.md",
-    "1. Permanents/Permanents.md",
     "Res",
     "1. Permanents",
     "4. Resource",
@@ -192,7 +193,6 @@
     "xxx.md",
     "무제 파일 2.md",
     "무제 파일 3.md",
-    "무제 파일 1.md",
-    "무제 파일.md"
+    "무제 파일 1.md"
   ]
 }
