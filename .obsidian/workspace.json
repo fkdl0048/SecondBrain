@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "490b3a08c2c2258e",
+        "id": "2aca43f565e98e65",
         "type": "tabs",
         "children": [
           {
-            "id": "91ba1edd3bd9712e",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "a5cb490175ab8b4a",
+            "id": "c404c8ecae7d072f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Project/프로젝트 개발 일지(GameOver).md",
+                "file": "2. Project/BRIDGE/DEV/BRIDGE DEV란.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Project/프로젝트 개발 일지(GameOver).md",
+                "file": "2. Project/BRIDGE/DEV/BRIDGE DEV란.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Project/프로젝트 개발 일지(GameOver).md",
+                "file": "2. Project/BRIDGE/DEV/BRIDGE DEV란.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Project/프로젝트 개발 일지(GameOver).md"
+                "file": "2. Project/BRIDGE/DEV/BRIDGE DEV란.md"
               }
             }
           },
@@ -164,19 +155,26 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "a5cb490175ab8b4a",
+  "active": "c404c8ecae7d072f",
   "lastOpenFiles": [
-    "2. Project/프로젝트 개발 일지(GameOver).md",
+    "4. Resource/옵시디언 사용 룰.md",
+    "2. Project/BRIDGE/DEV/BRIDGE DEV란.md",
+    "2. Project/BRIDGE/DEV",
     "무제 폴더",
+    "2. Project/BRIDGE/무제 파일.md",
+    "0. Inbox/무제 파일.md",
+    "2. Project/BRIDGE",
     "2. Project/Project.md",
+    "2. Project/GameOver/프로젝트 개발 일지(GameOver).md",
+    "5. Archive/Archive.md",
+    "3. Area/나의 퀘렌시아.md",
+    "2. Project/GameOver",
     "2. Project/Blog/나의 일정 관리기.md",
     "0. Inbox/Inbox.md",
     "2. Project/Blog/더 나은 도구, 더 좋은 관리.md",
-    "4. Resource/옵시디언 사용 룰.md",
     "2. Project/Blog",
     "Templates/ZettelKasten.md",
     "무제 파일.canvas",
-    "5. Archive/Archive.md",
     "3. Area/Area.md",
     "Res/Res.md",
     "4. Resource/Resource.md",
@@ -187,9 +185,6 @@
     "3. Area",
     "2. Project",
     "conflict-files-obsidian-git.md",
-    "Templates",
-    "5. Archive",
-    "0. Inbox",
     "Test3.md",
     "dddd.md",
     "xxx.md",
