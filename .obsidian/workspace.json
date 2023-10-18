@@ -4,47 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "23e5e0eba7cc26e5",
+        "id": "490b3a08c2c2258e",
         "type": "tabs",
         "children": [
           {
-            "id": "1bada64b55e3d38e",
+            "id": "91ba1edd3bd9712e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/Inbox.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           },
           {
-            "id": "b1d119b7dfb8fb95",
+            "id": "a5cb490175ab8b4a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Project/Blog/더 나은 도구, 더 좋은 관리.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f47732808a592695",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Project/Blog/나의 일정 관리기.md",
+                "file": "2. Project/프로젝트 개발 일지(GameOver).md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Project/Blog/나의 일정 관리기.md",
+                "file": "2. Project/프로젝트 개발 일지(GameOver).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Project/Blog/나의 일정 관리기.md",
+                "file": "2. Project/프로젝트 개발 일지(GameOver).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +134,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Project/Blog/나의 일정 관리기.md"
+                "file": "2. Project/프로젝트 개발 일지(GameOver).md"
               }
             }
           },
@@ -180,24 +164,25 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "3f8623a79c8c1c95",
+  "active": "a5cb490175ab8b4a",
   "lastOpenFiles": [
-    "2. Project/Blog",
-    "2. Project/Blog/더 나은 도구, 더 좋은 관리.md",
+    "2. Project/프로젝트 개발 일지(GameOver).md",
+    "무제 폴더",
+    "2. Project/Project.md",
     "2. Project/Blog/나의 일정 관리기.md",
     "0. Inbox/Inbox.md",
+    "2. Project/Blog/더 나은 도구, 더 좋은 관리.md",
     "4. Resource/옵시디언 사용 룰.md",
+    "2. Project/Blog",
     "Templates/ZettelKasten.md",
     "무제 파일.canvas",
     "5. Archive/Archive.md",
     "3. Area/Area.md",
     "Res/Res.md",
     "4. Resource/Resource.md",
-    "2. Project/Project.md",
     "1. Permanents/Permanents.md",
     "Res",
     "1. Permanents",
-    "무제 폴더",
     "4. Resource",
     "3. Area",
     "2. Project",
