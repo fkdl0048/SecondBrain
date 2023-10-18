@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/더 나은 도구, 더 좋은 관리.md",
+                "file": "2. Project/더 나은 도구, 더 좋은 관리.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/나의 일정 관리기.md",
+                "file": "2. Project/나의 일정 관리기.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/나의 일정 관리기.md",
+                "file": "2. Project/나의 일정 관리기.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/나의 일정 관리기.md",
+                "file": "2. Project/나의 일정 관리기.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/나의 일정 관리기.md"
+                "file": "2. Project/나의 일정 관리기.md"
               }
             }
           },
@@ -180,10 +180,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f47732808a592695",
+  "active": "3f8623a79c8c1c95",
   "lastOpenFiles": [
-    "0. Inbox/더 나은 도구, 더 좋은 관리.md",
-    "0. Inbox/나의 일정 관리기.md",
+    "2. Project/더 나은 도구, 더 좋은 관리.md",
+    "2. Project/나의 일정 관리기.md",
     "0. Inbox/Inbox.md",
     "4. Resource/옵시디언 사용 룰.md",
     "Templates/ZettelKasten.md",
