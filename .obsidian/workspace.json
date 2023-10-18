@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "73f75836caebc328",
+        "id": "9eb918330a5e3dc0",
         "type": "tabs",
         "children": [
           {
-            "id": "129269056cde18ed",
+            "id": "ec271704b7ca02d9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "3. Resource/옵시디언 사용 룰.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "3. Resource/옵시디언 사용 룰.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "3. Resource/옵시디언 사용 룰.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "3. Resource/옵시디언 사용 룰.md"
+              }
             }
           }
         ]
@@ -138,31 +146,31 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "129269056cde18ed",
+  "active": "ec271704b7ca02d9",
   "lastOpenFiles": [
+    "1. Project/GameOver/프로젝트 개발 일지(GameOver).md",
     "Templates/ZettelKasten.md",
     "Templates/Date Memo.md",
     "Templates",
     "Res/Res.md",
     "Res",
-    "5. Archive/BRIDGE/DEV/BRIDGE DEV.md",
-    "5. Archive/BRIDGE/BookClub/BRIDGE BookClub.md",
-    "5. Archive/BRIDGE/Archive/BRIDGE Archive.md",
-    "5. Archive/BRIDGE/DEV",
-    "5. Archive/BRIDGE/BookClub",
-    "5. Archive/BRIDGE/Archive",
-    "5. Archive/BRIDGE",
-    "5. Archive/Archive.md",
-    "5. Archive",
-    "4. Resource/옵시디언 사용 룰.md",
-    "4. Resource/Resource.md",
-    "4. Resource",
-    "3. Area/Area.md",
-    "3. Area",
-    "2. Project/GameOver/프로젝트 개발 일지(GameOver).md",
-    "2. Project/Blog/나의 일정 관리기.md",
-    "2. Project/GameOver",
-    "2. Project/Project.md",
+    "4. Archive/BRIDGE/DEV/BRIDGE DEV.md",
+    "4. Archive/BRIDGE/BookClub/BRIDGE BookClub.md",
+    "4. Archive/BRIDGE/Archive/BRIDGE Archive.md",
+    "4. Archive/BRIDGE/DEV",
+    "4. Archive/BRIDGE/BookClub",
+    "4. Archive/BRIDGE/Archive",
+    "4. Archive/BRIDGE",
+    "4. Archive/Archive.md",
+    "4. Archive",
+    "3. Resource/옵시디언 사용 룰.md",
+    "3. Resource/Resource.md",
+    "3. Resource",
+    "2. Area/Area.md",
+    "2. Area",
+    "1. Project/Blog/나의 일정 관리기.md",
+    "1. Project/GameOver",
+    "1. Project/Project.md",
     "1. Permanents/Permanents.md",
     "0. Inbox/고대 그리스의 세계관.md",
     "0. Inbox/Inbox.md",
