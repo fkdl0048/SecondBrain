@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2aca43f565e98e65",
+        "id": "f39255c186409e5b",
         "type": "tabs",
         "children": [
           {
-            "id": "c404c8ecae7d072f",
+            "id": "0aa6c404ab50cc23",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Project/BRIDGE/DEV/BRIDGE DEV란.md",
+                "file": "0. Inbox/Inbox.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Project/BRIDGE/DEV/BRIDGE DEV란.md",
+                "file": "0. Inbox/Inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2. Project/BRIDGE/DEV/BRIDGE DEV란.md",
+                "file": "0. Inbox/Inbox.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Project/BRIDGE/DEV/BRIDGE DEV란.md"
+                "file": "0. Inbox/Inbox.md"
               }
             }
           },
@@ -155,10 +155,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "c404c8ecae7d072f",
+  "active": "0aa6c404ab50cc23",
   "lastOpenFiles": [
+    "2. Project/BRIDGE/DEV/BRIDGE DEV.md",
+    "2. Project/BRIDGE/Archive/BRIDGE Archive.md",
+    "2. Project/BRIDGE/BookClub/BRIDGE BookClub.md",
+    "2. Project/BRIDGE/Archive",
+    "3. Area/Area.md",
+    "2. Project/BRIDGE/BookClub",
+    "3. Area/나의 퀘렌시아.md",
     "4. Resource/옵시디언 사용 룰.md",
-    "2. Project/BRIDGE/DEV/BRIDGE DEV란.md",
     "2. Project/BRIDGE/DEV",
     "무제 폴더",
     "2. Project/BRIDGE/무제 파일.md",
@@ -167,7 +173,6 @@
     "2. Project/Project.md",
     "2. Project/GameOver/프로젝트 개발 일지(GameOver).md",
     "5. Archive/Archive.md",
-    "3. Area/나의 퀘렌시아.md",
     "2. Project/GameOver",
     "2. Project/Blog/나의 일정 관리기.md",
     "0. Inbox/Inbox.md",
@@ -175,15 +180,12 @@
     "2. Project/Blog",
     "Templates/ZettelKasten.md",
     "무제 파일.canvas",
-    "3. Area/Area.md",
     "Res/Res.md",
     "4. Resource/Resource.md",
     "1. Permanents/Permanents.md",
     "Res",
     "1. Permanents",
     "4. Resource",
-    "3. Area",
-    "2. Project",
     "conflict-files-obsidian-git.md",
     "Test3.md",
     "dddd.md",
@@ -191,8 +193,6 @@
     "무제 파일 2.md",
     "무제 파일 3.md",
     "무제 파일 1.md",
-    "무제 파일.md",
-    "Test2.md",
-    "Test.md"
+    "무제 파일.md"
   ]
 }
