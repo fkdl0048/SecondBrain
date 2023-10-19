@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13c84e555405e57a",
+        "id": "ea5ba058dddbb0ca",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f16a465a335411",
+            "id": "c73551c5c534e135",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "f995a2a8aa17a3c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,12 +118,19 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Inbox/무제 파일.md"
-              }
+              "state": {}
+            }
+          },
+          {
+            "id": "d3a0bf20f46c15be",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,43 +147,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f995a2a8aa17a3c0",
+  "active": "c73551c5c534e135",
   "lastOpenFiles": [
-    "0. Inbox/무제 파일.md",
-    "4. Archive/Philosophy/고대 그리스의 세계관.md",
-    "4. Archive/Philosophy",
-    "4. Archive/Archive.md",
-    "1. Project/GameOver/프로젝트 개발 일지(GameOver).md",
-    "3. Resource/옵시디언 사용 룰.md",
-    "Templates/ZettelKasten.md",
-    "Templates/Date Memo.md",
-    "Templates",
-    "Res/Res.md",
-    "Res",
+    "4. Resource/옵시디언 사용 룰.md",
     "4. Archive/BRIDGE/DEV/BRIDGE DEV.md",
     "4. Archive/BRIDGE/BookClub/BRIDGE BookClub.md",
     "4. Archive/BRIDGE/Archive/BRIDGE Archive.md",
+    "4. Archive/Philosophy/고대 그리스의 세계관.md",
     "4. Archive/BRIDGE/DEV",
     "4. Archive/BRIDGE/BookClub",
     "4. Archive/BRIDGE/Archive",
+    "4. Archive/Philosophy",
     "4. Archive/BRIDGE",
+    "4. Archive/Archive.md",
     "4. Archive",
+    "3. Resource/옵시디언 사용 룰.md",
     "3. Resource/Resource.md",
     "3. Resource",
     "2. Area/Area.md",
     "2. Area",
+    "1. Project/GameOver/프로젝트 개발 일지(GameOver).md",
     "1. Project/Blog/나의 일정 관리기.md",
     "1. Project/Project.md",
-    "1. Permanents/Permanents.md",
+    "1. Project/GameOver",
+    "1. Project/Blog",
+    "0. Inbox/무제 파일.md",
+    "0. Inbox/고대 그리스의 세계관.md",
+    "4. Resource/Resource.md",
+    "2. Project/Blog/나의 일정 관리기.md",
+    "2. Project/GameOver/프로젝트 개발 일지(GameOver).md",
+    "5. Archive/BRIDGE/BookClub/BRIDGE BookClub.md",
     "0. Inbox/Inbox.md",
-    "무제 파일.md",
-    "무제 파일 3.md",
-    "xxx.md",
-    "Template/ZettelKasten.md",
-    "0. Inbox/나의 첫 메모.md",
-    "dddd.md",
-    "무제 파일 2.md",
-    "무제 파일 1.md",
-    "Test3.md"
+    "1. Permanents/Permanents.md",
+    "5. Archive/Archive.md",
+    "Res/Res.md",
+    "3. Area/나의 퀘렌시아.md",
+    "Templates/Date Memo.md",
+    "Templates/ZettelKasten.md",
+    "5. Archive/BRIDGE/DEV/BRIDGE DEV.md",
+    "무제 파일.canvas"
   ]
 }
