@@ -1,3 +1,3 @@
-#### 작성 날짜: {{date:YYYY-MM-DD}} {{time}}
+##### 작성 날짜: {{date:YYYY-MM-DD}} {{time}}
 ---
 
