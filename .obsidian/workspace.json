@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "13c84e555405e57a",
+        "id": "72e6f2627175c983",
         "type": "tabs",
         "children": [
           {
-            "id": "c1f16a465a335411",
+            "id": "68754813b4d02f35",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "f995a2a8aa17a3c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/무제 파일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Inbox/무제 파일.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -155,9 +138,10 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "f995a2a8aa17a3c0",
+  "active": "68754813b4d02f35",
   "lastOpenFiles": [
-    "0. Inbox/무제 파일.md",
+    "0. Inbox/GDC, IGC 영상.md",
+    "0. Inbox/팀 Gulid 지원.md",
     "4. Archive/Philosophy/고대 그리스의 세계관.md",
     "4. Archive/Philosophy",
     "4. Archive/Archive.md",
@@ -191,7 +175,6 @@
     "0. Inbox/나의 첫 메모.md",
     "dddd.md",
     "무제 파일 2.md",
-    "무제 파일 1.md",
-    "Test3.md"
+    "무제 파일 1.md"
   ]
 }
