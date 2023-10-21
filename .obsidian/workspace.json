@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "eb94994c198b34d1",
+        "id": "924262b9e490584d",
         "type": "tabs",
         "children": [
           {
-            "id": "978861623f22e139",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "d891e2eacd78653d",
+            "id": "d0b824d3b3cd878b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/책을 저렴하게 구매하는 플랜.md",
+                "file": "0. Inbox/시험 공부의 최고의 효율.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/책을 저렴하게 구매하는 플랜.md",
+                "file": "0. Inbox/시험 공부의 최고의 효율.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/책을 저렴하게 구매하는 플랜.md",
+                "file": "0. Inbox/시험 공부의 최고의 효율.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,11 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/책을 저렴하게 구매하는 플랜.md"
+                "file": "0. Inbox/시험 공부의 최고의 효율.md"
               }
             }
+          },
+          {
+            "id": "d3a0bf20f46c15be",
+            "type": "leaf",
+            "state": {
+              "type": "git-history-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -155,44 +155,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "d891e2eacd78653d",
+  "active": "d0b824d3b3cd878b",
   "lastOpenFiles": [
-    "0. Inbox/시험 공부의 최고의 효율.md",
-    "0. Inbox/책을 저렴하게 구매하는 플랜.md",
-    "0. Inbox/팀 Gulid 지원.md",
-    "0. Inbox/항상 DI가 정답은 아니다..md",
-    "0. Inbox/단순 프로그래밍 파트에 참여하고 싶은 생각 정리.md",
-    "1. Project/Blog/나의 일정 관리기.md",
-    "0. Inbox/무제 파일.md",
-    "Pasted image 20231020030728.png",
-    "0. Inbox/GDC, IGC 영상.md",
     "3. Resource/GameReferences/2D 아트 스타일.md",
     "3. Resource/GameReferences/2.5D 참고 자료.md",
     "3. Resource/GameReferences",
-    "1. Project/GameOver/프로젝트 개발 일지(GameOver).md",
-    "conflict-files-obsidian-git.md",
-    "3. Resource/옵시디언 사용 룰.md",
-    "4. Archive/Philosophy/고대 그리스의 세계관.md",
-    "4. Archive/Philosophy",
-    "4. Archive/Archive.md",
-    "Templates/ZettelKasten.md",
+    "0. Inbox/항상 DI가 정답은 아니다..md",
+    "0. Inbox/팀 Gulid 지원.md",
+    "0. Inbox/책을 저렴하게 구매하는 플랜.md",
+    "0. Inbox/무제 파일.md",
+    "0. Inbox/단순 프로그래밍 파트에 참여하고 싶은 생각 정리.md",
+    "0. Inbox/GDC, IGC 영상.md",
+    "[.md",
+    "0. Inbox/시험 공부의 최고의 효율.md",
     "Templates/Date Memo.md",
-    "Templates",
-    "Res/Res.md",
-    "Res",
+    "3. Resource/옵시디언 사용 룰.md",
+    "0. Inbox/무제 파일 1.md",
+    "4. Resource/옵시디언 사용 룰.md",
     "4. Archive/BRIDGE/DEV/BRIDGE DEV.md",
     "4. Archive/BRIDGE/BookClub/BRIDGE BookClub.md",
     "4. Archive/BRIDGE/Archive/BRIDGE Archive.md",
+    "4. Archive/Philosophy/고대 그리스의 세계관.md",
     "4. Archive/BRIDGE/DEV",
     "4. Archive/BRIDGE/BookClub",
     "4. Archive/BRIDGE/Archive",
+    "4. Archive/Philosophy",
     "4. Archive/BRIDGE",
+    "4. Archive/Archive.md",
     "4. Archive",
     "3. Resource/Resource.md",
     "3. Resource",
     "2. Area/Area.md",
+    "2. Area",
+    "1. Project/GameOver/프로젝트 개발 일지(GameOver).md",
+    "1. Project/Blog/나의 일정 관리기.md",
     "1. Project/Project.md",
-    "1. Permanents/Permanents.md",
-    "0. Inbox/Inbox.md"
+    "1. Project/GameOver",
+    "0. Inbox/고대 그리스의 세계관.md",
+    "4. Resource/Resource.md",
+    "무제 파일.canvas"
   ]
 }
