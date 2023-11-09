@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a00348f37f114e62",
+        "id": "5db60867985937eb",
         "type": "tabs",
         "children": [
           {
-            "id": "8ae36eef9834864a",
+            "id": "eb1334336171802e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. Resource/GameReferences/만들고 싶은 게임 레퍼런스.md",
+                "file": "0. Inbox/Nunit 관련 정리.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3. Resource/GameReferences/만들고 싶은 게임 레퍼런스.md",
+                "file": "0. Inbox/Nunit 관련 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3. Resource/GameReferences/만들고 싶은 게임 레퍼런스.md",
+                "file": "0. Inbox/Nunit 관련 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3. Resource/GameReferences/만들고 싶은 게임 레퍼런스.md"
+                "file": "0. Inbox/Nunit 관련 정리.md"
               }
             }
           }
@@ -146,44 +146,44 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "8ae36eef9834864a",
+  "active": "eb1334336171802e",
   "lastOpenFiles": [
+    "0. Inbox/무제 파일.md",
+    "0. Inbox/Nunit 관련 정리.md",
+    "0. Inbox/GDC, IGC 영상.md",
+    "1. Project/GameOver/GameOver 팀원 11월 인터뷰.md",
+    "0. Inbox/2023-11-09.md",
+    "1. Project/Project.md",
+    "4. Archive/나의 일정 관리기.md",
+    "4. Archive/Project/팀원 인터뷰 기록 10월.md",
+    "4. Archive/Project/인디게임 팀에서 해야햐는 말 (회의).md",
+    "4. Archive/Project/기획 회의 내용 준비.md",
+    "2. Area/GameOver/프로젝트 개발 일지(GameOver).md",
+    "4. Archive/Project",
+    "2. Area/GameOver",
+    "2. Area/북클럽 좋은 댓글 모음.md",
+    "4. Archive/책을 저렴하게 구매하는 플랜.md",
+    "4. Archive/시험 공부의 최고의 효율.md",
+    "2. Area/Area.md",
     "3. Resource/GameLogic/고도엔진 관련.md",
+    "Res/Res.md",
+    "4. Archive/팀 Gulid 지원.md",
+    "4. Archive/단순 프로그래밍 파트에 참여하고 싶은 생각 정리.md",
+    "4. Archive/Programming/Mind/게임 디자인 패턴 정리글.md",
+    "4. Archive/Programming/Mind/게임 아키텍처.md",
+    "4. Archive/Programming/Mind/항상 DI가 정답은 아니다..md",
+    "3. Resource/Resource.md",
     "3. Resource/GameReferences/만들고 싶은 게임 레퍼런스.md",
     "3. Resource/GameLogic",
     "3. Resource/GameReferences/무제 파일 1.md",
     "3. Resource/GameReferences/무제 파일.md",
-    "4. Archive/Archive.md",
-    "0. Inbox/2023-10-30.md",
-    "1. Project/GameOver/팀원 인터뷰 기록 10월.md",
-    "1. Project/GameOver/플밍 회의.md",
-    "1. Project/GameOver/기획 회의 내용 준비.md",
-    "0. Inbox/GDC, IGC 영상.md",
-    "0. Inbox/2023-10-27.md",
-    "4. Archive/Programming/Mind/프로그래머에게 벽이란,.md",
-    "4. Archive/단순 프로그래밍 파트에 참여하고 싶은 생각 정리.md",
-    "4. Archive/팀 Gulid 지원.md",
-    "4. Archive/Programming/Mind/항상 DI가 정답은 아니다..md",
-    "4. Archive/Programming/Mind/게임 아키텍처.md",
-    "4. Archive/Programming/Mind/게임 디자인 패턴 정리글.md",
-    "1. Project/GameOver/프로젝트 개발 일지(GameOver).md",
-    "1. Project/GameOver/인디게임 팀에서 해야햐는 말 (회의).md",
     "4. Archive/Programming/Mind",
     "4. Archive/Programming",
-    "2. Area/책을 저렴하게 구매하는 플랜.md",
-    "2. Area/시험 공부의 최고의 효율.md",
-    "1. Project/Project.md",
-    "무제 파일.md",
-    "0. Inbox/Game Over 기획 전달 사항 메모.md",
-    "2023-10-23.md",
-    "3. Resource/옵시디언 사용 룰.md",
     "Pasted image 20231020030728.png",
     "3. Resource/GameReferences",
     "4. Archive/Philosophy",
     "Templates",
     "Res",
-    "4. Archive/BRIDGE/DEV",
-    "4. Archive/BRIDGE/BookClub",
-    "4. Archive/BRIDGE/Archive"
+    "4. Archive/BRIDGE/DEV"
   ]
 }
