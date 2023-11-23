@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "33a6585b76550335",
+        "id": "a5e14ff85b5cb334",
         "type": "tabs",
         "children": [
           {
-            "id": "710510a4f6428d7e",
+            "id": "15f9177075edf227",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/NDC 영상 정리.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/NDC 영상 정리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/NDC 영상 정리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Inbox/NDC 영상 정리.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,11 +138,17 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "710510a4f6428d7e",
+  "active": "15f9177075edf227",
   "lastOpenFiles": [
-    "0. Inbox/Nunit 관련 정리.md",
-    "0. Inbox/NDC 영상 정리.md",
+    "3. Resource/Resource.md",
+    "3. Resource/GameReferences/재밌는 시스템 모음.md",
+    "0. Inbox/알고리즘 스터디 조사.md",
+    "0. Inbox/북클럽 피드백.md",
+    "0. Inbox/기획 회의 관련.md",
     "0. Inbox/VContainer 관련 정리.md",
+    "0. Inbox/NDC 영상 정리.md",
+    "0. Inbox/전지적 참견시점 게임 개발 PM 정리.md",
+    "0. Inbox/Nunit 관련 정리.md",
     "4. Archive/BRIDGE/BRIDGE BookClub.md",
     "4. Archive/BRIDGE/BRIDGE DEV.md",
     "3. Resource/GameReferences/만들고 싶은 게임 레퍼런스.md",
@@ -171,12 +169,6 @@
     "2. Area/북클럽 좋은 댓글 모음.md",
     "4. Archive/책을 저렴하게 구매하는 플랜.md",
     "4. Archive/시험 공부의 최고의 효율.md",
-    "2. Area/Area.md",
-    "Res/Res.md",
-    "4. Archive/팀 Gulid 지원.md",
-    "4. Archive/단순 프로그래밍 파트에 참여하고 싶은 생각 정리.md",
-    "4. Archive/Programming/Mind/게임 디자인 패턴 정리글.md",
-    "4. Archive/Programming/Mind/게임 아키텍처.md",
     "3. Resource/GameLogic",
     "4. Archive/Programming/Mind",
     "4. Archive/Programming",
