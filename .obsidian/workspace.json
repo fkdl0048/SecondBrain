@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "d4a4742de40e02f0",
+        "id": "7f1f9ca2dae22693",
         "type": "tabs",
         "children": [
           {
-            "id": "52efcea8b1f6fc42",
+            "id": "912e5052ac440a37",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/GG 중간 발표 준비.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/GG 중간 발표 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/GG 중간 발표 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "0. Inbox/GG 중간 발표 준비.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,13 +138,13 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "52efcea8b1f6fc42",
+  "active": "912e5052ac440a37",
   "lastOpenFiles": [
+    "0. Inbox/GG 중간 발표 준비.md",
     "0. Inbox/스터디 발표 준비.md",
     "4. Archive/BRIDGE/BRIDGE DEV.md",
     "4. Archive/BRIDGE/BRIDGE BookClub.md",
     "4. Archive/BRIDGE/BRIDGE Archive.md",
-    "0. Inbox/GG 중간 발표 준비.md",
     "0. Inbox/팀원 11월달 인터뷰.md",
     "3. Resource/Resource.md",
     "3. Resource/GameReferences/재밌는 시스템 모음.md",
