@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a5e14ff85b5cb334",
+        "id": "d4a4742de40e02f0",
         "type": "tabs",
         "children": [
           {
-            "id": "15f9177075edf227",
+            "id": "52efcea8b1f6fc42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/GG 중간 발표 준비.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. Inbox/GG 중간 발표 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. Inbox/GG 중간 발표 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. Inbox/GG 중간 발표 준비.md"
+              }
             }
           }
         ]
@@ -138,8 +146,14 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "15f9177075edf227",
+  "active": "52efcea8b1f6fc42",
   "lastOpenFiles": [
+    "0. Inbox/스터디 발표 준비.md",
+    "4. Archive/BRIDGE/BRIDGE DEV.md",
+    "4. Archive/BRIDGE/BRIDGE BookClub.md",
+    "4. Archive/BRIDGE/BRIDGE Archive.md",
+    "0. Inbox/GG 중간 발표 준비.md",
+    "0. Inbox/팀원 11월달 인터뷰.md",
     "3. Resource/Resource.md",
     "3. Resource/GameReferences/재밌는 시스템 모음.md",
     "0. Inbox/알고리즘 스터디 조사.md",
@@ -149,8 +163,6 @@
     "0. Inbox/NDC 영상 정리.md",
     "0. Inbox/전지적 참견시점 게임 개발 PM 정리.md",
     "0. Inbox/Nunit 관련 정리.md",
-    "4. Archive/BRIDGE/BRIDGE BookClub.md",
-    "4. Archive/BRIDGE/BRIDGE DEV.md",
     "3. Resource/GameReferences/만들고 싶은 게임 레퍼런스.md",
     "3. Resource/GameReferences/2D 아트 스타일.md",
     "3. Resource/옵시디언 사용 룰.md",
@@ -163,12 +175,8 @@
     "4. Archive/Project/팀원 인터뷰 기록 10월.md",
     "4. Archive/Project/인디게임 팀에서 해야햐는 말 (회의).md",
     "4. Archive/Project/기획 회의 내용 준비.md",
-    "2. Area/GameOver/프로젝트 개발 일지(GameOver).md",
     "4. Archive/Project",
     "2. Area/GameOver",
-    "2. Area/북클럽 좋은 댓글 모음.md",
-    "4. Archive/책을 저렴하게 구매하는 플랜.md",
-    "4. Archive/시험 공부의 최고의 효율.md",
     "3. Resource/GameLogic",
     "4. Archive/Programming/Mind",
     "4. Archive/Programming",
