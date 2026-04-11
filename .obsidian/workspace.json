@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0f735d4cd6afbd01",
+        "id": "996f5eab864d4080",
         "type": "tabs",
         "children": [
           {
-            "id": "b20b6fbd37bb4413",
+            "id": "7a3375a7cee34a2a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/2026-04-12.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "2026-04-12"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. Inbox/2026-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "백링크"
+              "title": "2026-04-12 의 백링크"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. Inbox/2026-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "나가는 링크"
+              "title": "2026-04-12 의 나가는 링크"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0. Inbox/2026-04-12.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "2026-04-12 의 개요"
             }
           }
         ],
@@ -162,14 +169,15 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "b20b6fbd37bb4413",
+  "active": "7a3375a7cee34a2a",
   "lastOpenFiles": [
+    "3. Resource/옵시디언 사용 룰.md",
+    "0. Inbox/2026-04-12.md",
+    "0. Inbox/무제.base",
     "0. Inbox/스터디 발표 준비.md",
     "무제.canvas",
     "4. Archive/팀 Gulid 지원.md",
-    "0. Inbox/무제.base",
     "0. Inbox/무제 파일.md",
-    "0. Inbox/2026-04-12.md",
     "4. Archive/BRIDGE/BRIDGE BookClub.md",
     "2. Area/북클럽 좋은 댓글 모음.md",
     "0. Inbox/팀원 12월달 인터뷰.md",
@@ -189,7 +197,6 @@
     "0. Inbox/Nunit 관련 정리.md",
     "3. Resource/GameReferences/만들고 싶은 게임 레퍼런스.md",
     "3. Resource/GameReferences/2D 아트 스타일.md",
-    "3. Resource/옵시디언 사용 룰.md",
     "3. Resource/GameLogic/고도엔진 관련.md",
     "무제 파일.canvas",
     "4. Archive/Project",
