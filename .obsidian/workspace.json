@@ -4,15 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "7f1f9ca2dae22693",
+        "id": "0f735d4cd6afbd01",
         "type": "tabs",
         "children": [
           {
-            "id": "912e5052ac440a37",
+            "id": "b20b6fbd37bb4413",
             "type": "leaf",
             "state": {
               "type": "empty",
-              "state": {}
+              "state": {},
+              "icon": "lucide-file",
+              "title": "새 탭"
             }
           }
         ]
@@ -34,8 +36,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
             }
           },
           {
@@ -50,7 +55,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "검색"
             }
           },
           {
@@ -58,14 +65,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 289.5
+    "width": 311.5
   },
   "right": {
     "id": "b857ea833f8ee3a6",
@@ -88,7 +97,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
             }
           },
           {
@@ -99,7 +110,9 @@
               "state": {
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
             }
           },
           {
@@ -109,8 +122,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
             }
           },
           {
@@ -118,37 +135,52 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "912e5052ac440a37",
+  "active": "b20b6fbd37bb4413",
   "lastOpenFiles": [
-    "0. Inbox/GG 중간 발표 준비.md",
     "0. Inbox/스터디 발표 준비.md",
-    "4. Archive/BRIDGE/BRIDGE DEV.md",
+    "무제.canvas",
+    "4. Archive/팀 Gulid 지원.md",
+    "0. Inbox/무제.base",
+    "0. Inbox/무제 파일.md",
+    "0. Inbox/2026-04-12.md",
     "4. Archive/BRIDGE/BRIDGE BookClub.md",
-    "4. Archive/BRIDGE/BRIDGE Archive.md",
+    "2. Area/북클럽 좋은 댓글 모음.md",
+    "0. Inbox/팀원 12월달 인터뷰.md",
     "0. Inbox/팀원 11월달 인터뷰.md",
+    "0. Inbox/Mask of Time.md",
+    "0. Inbox/알고리즘 스터디 조사.md",
+    "0. Inbox/GG 중간 발표 준비.md",
+    "4. Archive/BRIDGE/BRIDGE DEV.md",
+    "4. Archive/BRIDGE/BRIDGE Archive.md",
     "3. Resource/Resource.md",
     "3. Resource/GameReferences/재밌는 시스템 모음.md",
-    "0. Inbox/알고리즘 스터디 조사.md",
     "0. Inbox/북클럽 피드백.md",
     "0. Inbox/기획 회의 관련.md",
     "0. Inbox/VContainer 관련 정리.md",
@@ -159,14 +191,7 @@
     "3. Resource/GameReferences/2D 아트 스타일.md",
     "3. Resource/옵시디언 사용 룰.md",
     "3. Resource/GameLogic/고도엔진 관련.md",
-    "1. Project/GameOver/GameOver 팀원 11월 인터뷰.md",
     "무제 파일.canvas",
-    "0. Inbox/2023-11-09.md",
-    "1. Project/Project.md",
-    "4. Archive/나의 일정 관리기.md",
-    "4. Archive/Project/팀원 인터뷰 기록 10월.md",
-    "4. Archive/Project/인디게임 팀에서 해야햐는 말 (회의).md",
-    "4. Archive/Project/기획 회의 내용 준비.md",
     "4. Archive/Project",
     "2. Area/GameOver",
     "3. Resource/GameLogic",
@@ -176,7 +201,6 @@
     "3. Resource/GameReferences",
     "4. Archive/Philosophy",
     "Templates",
-    "Res",
-    "4. Archive/BRIDGE/DEV"
+    "Res"
   ]
 }
