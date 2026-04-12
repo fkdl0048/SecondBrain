@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-04-12.md",
+                "file": "0. Inbox/컴퓨터 판매.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-12"
+              "title": "컴퓨터 판매"
             }
           },
           {
@@ -185,6 +185,8 @@
   },
   "active": "eb8d60d1f6b63bd0",
   "lastOpenFiles": [
+    "0. Inbox/2026-04-12.md",
+    "0. Inbox/컴퓨터 판매.md",
     "0. Inbox/기획 회의 관련.md",
     "Templates/ZettelKasten.md",
     "Templates/Date Memo.md",
@@ -202,7 +204,6 @@
     "2. Area/GameOver/프로젝트 개발 일지(GameOver).md",
     "2. Area/북클럽 좋은 댓글 모음.md",
     "1. Project/Project.md",
-    "0. Inbox/2026-04-12.md",
     "0. Inbox/Mask of Time.md",
     "0. Inbox/당근 판매 가계부.md",
     "무제 파일.canvas",
@@ -213,7 +214,6 @@
     "0. Inbox/무제 파일.md",
     "0. Inbox/무제.base",
     "0. Inbox/- [ ] 주류박람회 환불.md",
-    "4. Archive/팀 Gulid 지원.md",
     "4. Archive/Project",
     "2. Area/GameOver",
     "3. Resource/GameLogic",
