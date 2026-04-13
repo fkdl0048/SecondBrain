@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/당근 판매 가계부.md",
+                "file": "0. Inbox/2026-04-13.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "당근 판매 가계부"
+              "title": "2026-04-13"
             }
           }
         ]
@@ -166,11 +166,13 @@
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
       "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false
+      "command-palette:명령어 팔레트 열기": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bb8b2379c2ba887b",
   "lastOpenFiles": [
+    "0. Inbox/당근 판매 가계부.md",
     "0. Inbox/2026-04-13.md",
     "0. Inbox/2026-04-12.md",
     "0. Inbox/기획 회의 관련.md",
@@ -192,7 +194,6 @@
     "2. Area/북클럽 좋은 댓글 모음.md",
     "1. Project/Project.md",
     "0. Inbox/Mask of Time.md",
-    "0. Inbox/당근 판매 가계부.md",
     "무제 파일.canvas",
     "무제.canvas",
     "0. Inbox/아이디어 2.md",
