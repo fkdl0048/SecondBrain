@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3478af520f042fd9",
+        "id": "b50d607894ca924f",
         "type": "tabs",
         "children": [
           {
-            "id": "88a47bd421bbd426",
+            "id": "fb193b2eb77d6417",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4. Archive/Templates/Game Dev Log.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Game Dev Log"
+              "title": "새 탭"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/2026-04-12.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-04-12 의 백링크"
+              "title": "백링크"
             }
           },
           {
@@ -113,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/2026-04-12.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-12 의 나가는 링크"
+              "title": "나가는 링크"
             }
           },
           {
@@ -170,26 +164,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "88a47bd421bbd426",
+  "active": "3f8623a79c8c1c95",
   "lastOpenFiles": [
+    "0. Inbox/무제.md",
+    "0. Inbox/무제 파일.md",
+    "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
+    "4. Archive/Res/Res.md",
+    "4. Archive/Templates/ZettelKasten.md",
+    "4. Archive/Templates/Meeting Notes.md",
+    "4. Archive/Templates/Idea Note.md",
+    "4. Archive/Templates/Game Dev Log.md",
     "4. Archive/Templates/Date Memo.md",
     "4. Archive/Templates/Daily Note.md",
     "4. Archive/Templates/Book Review.md",
     "무제 파일.canvas",
     "무제.canvas",
     "무제 1.canvas",
-    "0. Inbox/무제 파일.md",
     "0. Inbox/무제.base",
     "0. Inbox/2026-04-15.md",
-    "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
     "3. Resource/시스템/📖 Second Brain 사용 가이드.md.tmp.5.1776193443109",
     "Templates/ZettelKasten.md.tmp.5.1776193378723",
-    "4. Archive/Templates/Meeting Notes.md",
     "Templates/Meeting Notes.md.tmp.5.1776193365602",
-    "4. Archive/Templates/Idea Note.md",
     "Templates/Idea Note.md.tmp.5.1776193357571",
     "Templates/Book Review.md.tmp.5.1776193350664",
-    "4. Archive/Templates/Game Dev Log.md",
     "Templates/Game Dev Log.md.tmp.5.1776193343134",
     "Templates/Daily Note.md.tmp.5.1776193335701",
     "1. Project/MaskOfTime/📋 MaskOfTime Hub.md",
@@ -208,9 +205,6 @@
     "3. Resource/GameDev/PM/전지적 참견시점 게임 개발 PM 정리.md",
     "3. Resource/GameDev/NDC 영상 정리.md",
     "2. Area/북클럽/북클럽 좋은 댓글 모음.md",
-    "2. Area/북클럽/북클럽 피드백.md",
-    "2. Area/개인글/아이디어/아이디어 2.md",
-    "2. Area/개인글/아이디어/게임 아이디어 정리.md",
     "Pasted image 20231020030728.png"
   ]
 }
