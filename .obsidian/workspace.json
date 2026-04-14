@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b50d607894ca924f",
+        "id": "4bf6ef64060eb89a",
         "type": "tabs",
         "children": [
           {
-            "id": "fb193b2eb77d6417",
+            "id": "7d1e66870fca8852",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -166,10 +166,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb193b2eb77d6417",
+  "active": "7d1e66870fca8852",
   "lastOpenFiles": [
-    "3. Resource/Resource.md",
+    "1. Project/GameOver/📋 GameOver Hub.md",
     "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
+    "3. Resource/Resource.md",
     "1. Project/Project.md",
     "2. Area/Area.md",
     "0. Inbox/무제.md",
@@ -197,7 +198,6 @@
     "Templates/Daily Note.md.tmp.5.1776193335701",
     "1. Project/MaskOfTime/📋 MaskOfTime Hub.md",
     "1. Project/MaskOfTime/📋 MaskOfTime Hub.md.tmp.5.1776193321950",
-    "1. Project/GameOver/📋 GameOver Hub.md",
     "1. Project/GameOver/📋 GameOver Hub.md.tmp.5.1776193314335",
     "1. Project/MaskOfTime/Mask of Time.md",
     "4. Archive/알고리즘 스터디 조사.md",
