@@ -1,5 +1,0 @@
-views:
-  - type: table
-    name: 표
-    order:
-      - file.name
