@@ -1,5 +1,7 @@
 ---
-tags: [system, guide]
+tags:
+  - system
+  - guide
 updated: 2026-04-15
 ---
 
