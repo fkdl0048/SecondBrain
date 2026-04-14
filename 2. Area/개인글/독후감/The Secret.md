@@ -7,7 +7,7 @@ title: The Secret
 author: Rhonda Byrne
 genre: 자기개발
 rating: ⭐⭐⭐
-status: reading
+status: done
 ---
 
 # The Secret
