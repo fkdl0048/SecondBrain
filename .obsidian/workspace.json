@@ -35,8 +35,7 @@
               "title": "2026-04-15"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -168,12 +167,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. Inbox/2026-04-15.md",
+                "file": "0. Inbox/2026-04 독서 계획.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "2026-04-15 의 나가는 링크"
+              "title": "2026-04 독서 계획 의 나가는 링크"
             }
           }
         ],
@@ -196,10 +195,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "843d17b60d74f92a",
+  "active": "d7c311caf6356187",
   "lastOpenFiles": [
-    "0. Inbox/2026-04 독서 계획.md",
     "0. Inbox/2026-04-15.md",
+    "0. Inbox/2026-04 독서 계획.md",
     "0. Inbox/삶으로 다시 날아오르기.md",
     "0. Inbox/소년이 온다.md",
     "4. Archive/Templates/Book Review.md",
