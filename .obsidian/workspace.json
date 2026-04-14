@@ -13,6 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0. Inbox/2026-04-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-15"
+            }
+          }
+        ]
+      },
+      {
+        "id": "a18089db1ed7b962",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ccad5e22437ff7c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0. Inbox/2026-04-14.md",
                 "mode": "source",
                 "source": false
@@ -172,8 +192,8 @@
   },
   "active": "83a4254143864f05",
   "lastOpenFiles": [
-    "0. Inbox/2026-04-15.md",
     "0. Inbox/2026-04-14.md",
+    "0. Inbox/2026-04-15.md",
     "0. Inbox/2026-04-13.md",
     "0. Inbox/게임 아이디어 정리.md",
     "0. Inbox/당근 판매 가계부.md",
