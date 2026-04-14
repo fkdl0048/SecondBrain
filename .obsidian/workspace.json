@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4. Archive/Templates/Book Review.md",
+                "file": "0. Inbox/무제 파일.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Book Review"
+              "title": "무제 파일"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Archive/Templates/Book Review.md",
+                "file": "0. Inbox/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Book Review 의 백링크"
+              "title": "무제 파일 의 백링크"
             }
           },
           {
@@ -113,27 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Archive/Templates/Book Review.md",
+                "file": "0. Inbox/무제 파일.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Book Review 의 개요"
-            }
-          },
-          {
-            "id": "96c4e94f87f85a35",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "4. Archive/Templates/Book Review.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Book Review 의 나가는 링크"
+              "title": "무제 파일 의 개요"
             }
           },
           {
@@ -180,8 +166,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "23f0aa1118c6ea9e",
+  "active": "fb193b2eb77d6417",
   "lastOpenFiles": [
+    "4. Archive/Templates/Book Review.md",
     "0. Inbox/무제.md",
     "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
     "3. Resource/시스템/옵시디언 사용 룰.md",
@@ -193,7 +180,6 @@
     "4. Archive/Templates/Game Dev Log.md",
     "4. Archive/Templates/Date Memo.md",
     "4. Archive/Templates/Daily Note.md",
-    "4. Archive/Templates/Book Review.md",
     "무제 파일.canvas",
     "무제.canvas",
     "무제 1.canvas",
