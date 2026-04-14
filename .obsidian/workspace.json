@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
-                "mode": "source",
+                "file": "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "무제 파일"
+              "title": "📖 Second Brain 사용 가이드"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#system",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
+                "file": "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "무제 파일 의 백링크"
+              "title": "📖 Second Brain 사용 가이드 의 백링크"
             }
           },
           {
@@ -113,13 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. Inbox/무제 파일.md",
+                "file": "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "무제 파일 의 개요"
+              "title": "📖 Second Brain 사용 가이드 의 개요"
             }
           },
           {
@@ -168,11 +168,14 @@
   },
   "active": "fb193b2eb77d6417",
   "lastOpenFiles": [
-    "4. Archive/Templates/Book Review.md",
-    "0. Inbox/무제.md",
+    "3. Resource/Resource.md",
     "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
-    "3. Resource/시스템/옵시디언 사용 룰.md",
+    "1. Project/Project.md",
+    "2. Area/Area.md",
+    "0. Inbox/무제.md",
     "0. Inbox/무제 파일.md",
+    "4. Archive/Templates/Book Review.md",
+    "3. Resource/시스템/옵시디언 사용 룰.md",
     "4. Archive/Res/Res.md",
     "4. Archive/Templates/ZettelKasten.md",
     "4. Archive/Templates/Meeting Notes.md",
@@ -204,9 +207,6 @@
     "4. Archive/당근 판매 가계부.md",
     "3. Resource/GameLogic/VContainer 관련 정리.md",
     "3. Resource/GameLogic/Nunit 관련 정리.md",
-    "3. Resource/GameDev/PM/전지적 참견시점 게임 개발 PM 정리.md",
-    "3. Resource/GameDev/NDC 영상 정리.md",
-    "2. Area/북클럽/북클럽 좋은 댓글 모음.md",
     "Pasted image 20231020030728.png"
   ]
 }
