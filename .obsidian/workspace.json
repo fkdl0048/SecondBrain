@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "259b101c8d0aa054",
+            "id": "66af0f991eb84ba0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-04-15.md",
+                "file": "Daily/2026_04/2026-04-16.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-15"
+              "title": "2026-04-16"
             }
           },
           {
@@ -51,6 +51,26 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ce124df6542fb365",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "259b101c8d0aa054",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026_04/2026-04-15.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-15"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +230,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "259b101c8d0aa054",
+  "active": "3f8623a79c8c1c95",
   "lastOpenFiles": [
+    "0. Inbox/2026-04-16.md",
+    "Daily/2026_04/2026-04-16.md",
+    "Daily/2026_04/2026-04-16.md.tmp.5.1776302385387",
+    "Daily/2026_04/2026-04-15.md",
     "0. Inbox/유튜브 채널 계획안 수립.md",
-    "0. Inbox/2026-04-15.md",
     "0. Inbox/2026-04 독서 계획.md",
     "0. Inbox/삶으로 다시 날아오르기.md",
     "0. Inbox/소년이 온다.md",
@@ -237,8 +260,6 @@
     "1. Project/Project.md",
     "2. Area/Area.md",
     "3. Resource/시스템/옵시디언 사용 룰.md",
-    "4. Archive/Res/Res.md",
-    "4. Archive/Templates/ZettelKasten.md",
     "무제 파일.canvas",
     "무제.canvas",
     "무제 1.canvas",
@@ -250,7 +271,6 @@
     "Templates/Book Review.md.tmp.5.1776193350664",
     "Templates/Game Dev Log.md.tmp.5.1776193343134",
     "Templates/Daily Note.md.tmp.5.1776193335701",
-    "1. Project/MaskOfTime/📋 MaskOfTime Hub.md.tmp.5.1776193321950",
     "Pasted image 20231020030728.png"
   ]
 }
