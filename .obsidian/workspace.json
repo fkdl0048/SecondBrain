@@ -11,14 +11,10 @@
             "id": "50644576809a1291",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/2026-04-15.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-04-15"
+              "title": "새 탭"
             }
           },
           {
@@ -49,8 +45,7 @@
               "title": "폴리마켓 트레이딩 봇"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +205,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "66af0f991eb84ba0",
+  "active": "50644576809a1291",
   "lastOpenFiles": [
-    "0. Inbox/유튜브 채널 계획안 수립.md",
     "Daily/2026_04/2026-04-16.md",
+    "Daily/2026_04/2026-04-19.md",
+    "0. Inbox/유튜브 채널 계획안 수립.md",
     "0. Inbox/2026-04-16.md",
     "Daily/2026_04/2026-04-16.md.tmp.5.1776302385387",
     "Daily/2026_04/2026-04-15.md",
@@ -239,7 +235,6 @@
     "3. Resource/Resource.md",
     "1. Project/Project.md",
     "2. Area/Area.md",
-    "3. Resource/시스템/옵시디언 사용 룰.md",
     "무제 파일.canvas",
     "무제.canvas",
     "무제 1.canvas",
