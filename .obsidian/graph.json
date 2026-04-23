@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "the se",
+  "search": "io",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -17,6 +17,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.5087618855792606,
-  "close": false
+  "scale": 2.5069183379836764,
+  "close": true
 }

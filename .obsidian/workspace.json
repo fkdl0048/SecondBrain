@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e0aa21f7e9a5b74",
+        "id": "3c1e2749238d1409",
         "type": "tabs",
         "children": [
           {
-            "id": "cc8f9317dd032bf2",
+            "id": "35233d93c9ca7bf5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,11 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cc8f9317dd032bf2",
+  "active": "35233d93c9ca7bf5",
   "lastOpenFiles": [
+    "0. Inbox/2026-04-23.md",
+    "3. Resource/github io 블로그 관련.md",
+    "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
+    "3. Resource/시스템/옵시디언 사용 룰.md",
     "0. Inbox/삶으로 다시 날아오르기.md",
     "2. Area/개인글/독후감/아몬드.md",
-    "0. Inbox/2026-04-23.md",
     "0. Inbox/유튜브 채널 계획안 수립.md",
     "Daily/2026_04/2026-04-20.md",
     "Daily/2026_04/2026-04-19.md",
@@ -208,9 +211,6 @@
     "Daily/2026-04-15.md",
     "4. Archive/Templates/Daily Note.md",
     "0. Inbox/2026-04-15 (수).md",
-    "1. Project/MaskOfTime/Mask of Time.md",
-    "0. Inbox/무제 파일.md",
-    "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
     "무제 파일.canvas",
     "무제.canvas",
     "무제 1.canvas",
