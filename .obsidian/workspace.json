@@ -35,8 +35,7 @@
               "title": "game ai studio"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,7 +195,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7e9e60a55e7242c7",
+  "active": "35233d93c9ca7bf5",
   "lastOpenFiles": [
     "0. Inbox/game ai studio.md",
     "0. Inbox/2026-04-23.md",
