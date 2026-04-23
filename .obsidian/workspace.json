@@ -22,6 +22,20 @@
             }
           },
           {
+            "id": "8d5c0809a0ca4bc6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/무제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
+          },
+          {
             "id": "7e9e60a55e7242c7",
             "type": "leaf",
             "state": {
@@ -35,7 +49,8 @@
               "title": "game ai studio"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -195,10 +210,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "35233d93c9ca7bf5",
+  "active": "8d5c0809a0ca4bc6",
   "lastOpenFiles": [
-    "0. Inbox/game ai studio.md",
     "0. Inbox/2026-04-23.md",
+    "0. Inbox/무제.md",
+    "0. Inbox/game ai studio.md",
     "3. Resource/github io 블로그 관련.md",
     "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
     "3. Resource/시스템/옵시디언 사용 룰.md",
@@ -224,7 +240,6 @@
     "2. Area/개인글/아이디어/아이디어 2.md",
     "Daily/2026_04",
     "Daily/2026-04-15.md",
-    "4. Archive/Templates/Daily Note.md",
     "무제 파일.canvas",
     "무제.canvas",
     "무제 1.canvas",
