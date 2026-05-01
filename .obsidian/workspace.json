@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8e80a62242cb6294",
+        "id": "97df2f997b714dd1",
         "type": "tabs",
         "children": [
           {
-            "id": "67fa96f7aa785ac3",
+            "id": "5a655d3c7bba0cfe",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,12 +181,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "67fa96f7aa785ac3",
+  "active": "5a655d3c7bba0cfe",
   "lastOpenFiles": [
+    "0. Inbox/태어난 김에, 책쓰기.md",
+    "2. Area/개인글/독후감/삶으로 다시 날아오르기.md",
     "2. Area/개인글/독후감/모순.md",
     "0. Inbox/2026-05 독서 계획.md",
     "0. Inbox/2026-05-01.md",
-    "0. Inbox/태어난 김에, 책쓰기.md",
     "0. Inbox/책 읽기에 관한 아이디어 정리.md",
     "2. Area/개인글/독후감/2026-04 독서 계획.md",
     "0. Inbox/소설 아이디어.md",
@@ -195,7 +196,6 @@
     "Daily/2026_04/2026-04-12.md",
     "0. Inbox/game ai studio.md",
     "0. Inbox/유튜브 채널 계획안 수립.md",
-    "2. Area/개인글/독후감/삶으로 다시 날아오르기.md",
     "2. Area/개인글/독후감/소년이 온다.md",
     "Daily/2026_04/2026-04-29.md",
     "Daily/2026_04/2026-04-23.md",
