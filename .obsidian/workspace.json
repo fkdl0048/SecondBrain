@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-05-01"
             }
+          },
+          {
+            "id": "e9108cadbcb7a2fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/위대한 수업.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "위대한 수업"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7d5d281ece4e8eaa",
+  "active": "e9108cadbcb7a2fb",
   "lastOpenFiles": [
-    "4. Archive/Templates/Daily Note.md",
     "0. Inbox/2026-05-01.md",
+    "4. Archive/Templates/Daily Note.md",
     "0. Inbox/2026 비전보드.md",
     "0. Inbox/위대한 수업.md",
     "0. Inbox/유튜브 채널 계획안 수립.md",
