@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-05-01"
             }
+          },
+          {
+            "id": "ee0986197ef45293",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/2026 비전보드.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026 비전보드"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,14 +196,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a4dfcc5ddb8e921",
+  "active": "ee0986197ef45293",
   "lastOpenFiles": [
+    "0. Inbox/2026 비전보드.md",
+    "0. Inbox/2026-05-01.md",
     "1. Project/소설/소설 아이디어.md",
     "1. Project/소설/소설 작성 기본 원칙 정리.md",
     "2. Area/개인글/독후감/삶으로 다시 날아오르기.md",
     "1. Project/소설/무제.md",
     "1. Project/소설",
-    "0. Inbox/2026-05-01.md",
     "0. Inbox/2026-05 독서 계획.md",
     "4. Archive/Templates/Daily Note.md",
     "0. Inbox/태어난 김에, 책쓰기.md",
@@ -210,7 +226,6 @@
     "3. Resource/github io 블로그 관련.md",
     "2. Area/개인글/독후감/아몬드.md",
     "Daily/2026_04/2026-04-20.md",
-    "Daily/2026_04/2026-04-19.md",
     "Daily/2026_04/2026-04-16.md.tmp.5.1776302385387",
     "Daily/2026_04",
     "무제 파일.canvas",
