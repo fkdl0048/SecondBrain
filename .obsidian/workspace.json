@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "35233d93c9ca7bf5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/2026-04-23.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-04-23"
-            }
-          },
-          {
             "id": "8d5c0809a0ca4bc6",
             "type": "leaf",
             "state": {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-04-29.md",
+                "file": "0. Inbox/2026-05-01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-04-29"
+              "title": "2026-05-01"
             }
           },
           {
@@ -64,7 +50,27 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "20c54305f9e9d5f4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "35233d93c9ca7bf5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily/2026_04/2026-04-29.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-04-29"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -121,7 +127,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5
+    "width": 311.5,
+    "collapsed": true
   },
   "right": {
     "id": "b857ea833f8ee3a6",
@@ -226,10 +233,11 @@
   },
   "active": "ef4b50d405d7d309",
   "lastOpenFiles": [
-    "0. Inbox/2026-04-27.md",
-    "0. Inbox/2026-04-29.md",
-    "0. Inbox/2026-04-25.md",
-    "0. Inbox/2026-04-23.md",
+    "Daily/2026_04/2026-04-29.md",
+    "0. Inbox/2026-05-01.md",
+    "Daily/2026_04/2026-04-23.md",
+    "Daily/2026_04/2026-04-25.md",
+    "Daily/2026_04/2026-04-27.md",
     "0. Inbox/소년이 온다.md",
     "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
     "3. Resource/시스템/옵시디언 사용 룰.md",
@@ -252,7 +260,6 @@
     "2. Area/개인글/독후감/The Secret.md",
     "0. Inbox/Invalid date.md",
     "Daily/2026_04/2026-04-14.md",
-    "Daily/2026_04/2026-04-13.md",
     "Daily/2026_04",
     "무제 파일.canvas",
     "무제.canvas",
