@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-05-01.md",
+                "file": "0. Inbox/2026-05-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-01"
+              "title": "2026-05-02"
             }
           },
           {
@@ -61,6 +61,26 @@
               },
               "icon": "lucide-file",
               "title": "누가 리더인가 조지프나이"
+            }
+          }
+        ]
+      },
+      {
+        "id": "264ea3979a463a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "94cc22e13972d8e5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/2026-05-01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-05-01"
             }
           }
         ]
@@ -225,10 +245,11 @@
   },
   "active": "d7b78280409c3e21",
   "lastOpenFiles": [
-    "0. Inbox/누가 리더인가 조지프나이.md",
     "0. Inbox/위대한 수업.md",
-    "0. Inbox/2026-05-01.md",
     "4. Archive/Templates/Daily Note.md",
+    "0. Inbox/2026-05-02.md",
+    "0. Inbox/2026-05-01.md",
+    "0. Inbox/누가 리더인가 조지프나이.md",
     "0. Inbox/2026 비전보드.md",
     "0. Inbox/유튜브 채널 계획안 수립.md",
     "Daily/2026_04/26년 4월 데일리 노트 정리.md",
@@ -252,7 +273,6 @@
     "Daily/2026_04/2026-04-27.md",
     "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
     "3. Resource/시스템/옵시디언 사용 룰.md",
-    "3. Resource/github io 블로그 관련.md",
     "Daily/2026_04/2026-04-16.md.tmp.5.1776302385387",
     "Daily/2026_04",
     "무제 파일.canvas",
