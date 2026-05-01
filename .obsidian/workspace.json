@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "97df2f997b714dd1",
+        "id": "0c92f34ec3ce3eaf",
         "type": "tabs",
         "children": [
           {
-            "id": "5a655d3c7bba0cfe",
+            "id": "4aed816b0f00494a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,10 +181,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a655d3c7bba0cfe",
+  "active": "4aed816b0f00494a",
   "lastOpenFiles": [
     "0. Inbox/2026-05 독서 계획.md",
     "0. Inbox/2026-05-01.md",
+    "4. Archive/Templates/Daily Note.md",
     "2. Area/개인글/독후감/삶으로 다시 날아오르기.md",
     "0. Inbox/태어난 김에, 책쓰기.md",
     "2. Area/개인글/독후감/모순.md",
@@ -209,7 +210,6 @@
     "Daily/2026_04/2026-04-19.md",
     "Daily/2026_04/2026-04-16.md",
     "4. Archive/폴리마켓 트레이딩 봇.md",
-    "0. Inbox/2026-04-16.md",
     "Daily/2026_04/2026-04-16.md.tmp.5.1776302385387",
     "Daily/2026_04",
     "무제 파일.canvas",
