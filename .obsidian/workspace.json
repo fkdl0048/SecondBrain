@@ -4,81 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "4185d6ec6b95e7c8",
+        "id": "163f897ef20e95ac",
         "type": "tabs",
         "children": [
           {
-            "id": "d8bfbae282ecc5d3",
+            "id": "6427b9d62c467158",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-05-02.md",
+                "file": "0. Inbox/책 읽기에 관한 아이디어 정리.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-02"
-            }
-          },
-          {
-            "id": "7d5d281ece4e8eaa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/2026-05-01.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-01"
-            }
-          },
-          {
-            "id": "814c651899460992",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/2026-05 독서 계획.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05 독서 계획"
-            }
-          },
-          {
-            "id": "472cc619b4648002",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/누가 리더인가 조지프나이.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "누가 리더인가 조지프나이"
-            }
-          },
-          {
-            "id": "e9108cadbcb7a2fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/누가 리더인가 조지프나이.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "누가 리더인가 조지프나이"
+              "title": "책 읽기에 관한 아이디어 정리"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,22 +181,25 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "814c651899460992",
+  "active": "6427b9d62c467158",
   "lastOpenFiles": [
+    "0. Inbox/유튜브 채널 계획안 수립.md",
+    "0. Inbox/위대한 수업.md",
+    "0. Inbox/누가 리더인가 조지프나이.md",
+    "0. Inbox/2026-05 독서 계획.md",
+    "4. Archive/2026 비전보드 관련/2026 비전보드.md",
+    "4. Archive/2026 비전보드 관련/모바일 배경.png",
+    "4. Archive/2026 비전보드 관련/컴퓨터 배경.png",
+    "4. Archive/2026 비전보드 관련",
+    "Daily/2026_05/2026-05-01.md",
+    "0. Inbox/2026-05-02.md",
     "0. Inbox/태어난 김에, 책쓰기.md",
     "2. Area/개인글/2026-04 독서 계획.md",
     "2. Area/개인글/독후감/모순.md",
     "2. Area/개인글/독후감/삶으로 다시 날아오르기.md",
     "2. Area/개인글/독후감/The Secret.md",
     "2. Area/개인글/독후감/아몬드.md",
-    "0. Inbox/2026-05 독서 계획.md",
-    "0. Inbox/2026-05-01.md",
-    "0. Inbox/2026-05-02.md",
-    "0. Inbox/위대한 수업.md",
     "4. Archive/Templates/Daily Note.md",
-    "0. Inbox/누가 리더인가 조지프나이.md",
-    "0. Inbox/2026 비전보드.md",
-    "0. Inbox/유튜브 채널 계획안 수립.md",
     "Daily/2026_04/26년 4월 데일리 노트 정리.md",
     "1. Project/소설/소설 아이디어.md",
     "1. Project/소설/소설 작성 기본 원칙 정리.md",
@@ -267,7 +213,6 @@
     "Daily/2026_04/2026-04-29.md",
     "Daily/2026_04/2026-04-23.md",
     "Daily/2026_04/2026-04-25.md",
-    "Daily/2026_04/2026-04-27.md",
     "Daily/2026_04/2026-04-16.md.tmp.5.1776302385387",
     "Daily/2026_04",
     "무제 파일.canvas",
@@ -278,7 +223,6 @@
     "Templates/ZettelKasten.md.tmp.5.1776193378723",
     "Templates/Meeting Notes.md.tmp.5.1776193365602",
     "Templates/Idea Note.md.tmp.5.1776193357571",
-    "Templates/Book Review.md.tmp.5.1776193350664",
     "Pasted image 20231020030728.png"
   ]
 }
