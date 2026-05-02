@@ -8,31 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "061edf9238eafa70",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3. Resource/GameDev/NDC 영상 정리.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NDC 영상 정리"
-            }
-          },
-          {
             "id": "97bb756eed38c1cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/MiniCard/MiniCard 개발 우선순위.md",
+                "file": "0. Inbox/2026-05-02.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MiniCard 개발 우선순위"
+              "title": "2026-05-02"
             }
           }
         ]
@@ -195,13 +181,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f8623a79c8c1c95",
+  "active": "97bb756eed38c1cc",
   "lastOpenFiles": [
+    "1. Project/MiniCard/MiniCard 개발 우선순위.md",
+    "3. Resource/GameDev/NDC 영상 정리.md",
     "1. Project/MiniCard/MiniCard 버그 목록.md",
     "1. Project/MiniCard/📋 MiniCard Hub.md",
     "개발일지.md",
     "1. Project/MiniCard/MiniCard 기획.md",
-    "1. Project/MiniCard/MiniCard 개발 우선순위.md",
     "1. Project/GameOver/📋 GameOver Hub.md",
     "1. Project/GameOver/기획/기획 회의 관련.md",
     "1. Project/GameOver/개발일지/프로젝트 개발 일지(GameOver).md",
@@ -226,7 +213,6 @@
     "3. Resource/game ai studio.md",
     "4. Archive/폴리마켓 트레이딩 봇.md",
     "2. Area/개인글/독후감/태어난 김에, 책쓰기.md",
-    "0. Inbox/2026-05 독서 계획.md",
     "4. Archive/2026 비전보드 관련/모바일 배경.png",
     "4. Archive/2026 비전보드 관련/컴퓨터 배경.png",
     "4. Archive/2026 비전보드 관련",
