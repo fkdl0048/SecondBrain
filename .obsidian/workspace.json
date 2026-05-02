@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f4606167b12cc668",
+        "id": "44b711f77e298079",
         "type": "tabs",
         "children": [
           {
-            "id": "391d5433a162ac5f",
+            "id": "061edf9238eafa70",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-05-02.md",
+                "file": "1. Project/MiniCard/📋 MiniCard Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-02"
+              "title": "📋 MiniCard Hub"
             }
           }
         ]
@@ -181,11 +181,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "391d5433a162ac5f",
+  "active": "061edf9238eafa70",
   "lastOpenFiles": [
+    "1. Project/GameOver/📋 GameOver Hub.md",
+    "1. Project/GameOver/기획/기획 회의 관련.md",
+    "1. Project/GameOver/개발일지/프로젝트 개발 일지(GameOver).md",
+    "버그.md",
+    "1. Project/MiniCard/📋 MiniCard Hub.md",
+    "개발일지 1.md",
+    "개발일지.md",
+    "1. Project/MiniCard/버그",
+    "1. Project/MiniCard/Mask of Time.md",
+    "0. Inbox/2026-05-02.md",
     "1. Project/유튜브/정치/s_01.md",
     "0. Inbox/게임 출시 전 데모 관련 필독 사항.md",
-    "0. Inbox/2026-05-02.md",
     "1. Project/유튜브/유튜브 채널 계획안 수립.md",
     "1. Project/유튜브/정치",
     "1. Project/유튜브",
@@ -193,10 +202,7 @@
     "1. Project/소설/소설 아이디어.md",
     "0. Inbox/위대한 수업.md",
     "0. Inbox/누가 리더인가 조지프나이.md",
-    "1. Project/GameOver/📋 GameOver Hub.md",
     "1. Project/MaskOfTime/📋 MaskOfTime Hub.md",
-    "1. Project/MiniCard/📋 MaskOfTime Hub.md",
-    "1. Project/MiniCard/Mask of Time.md",
     "1. Project/MiniCard",
     "3. Resource/책 읽기에 관한 아이디어 정리.md",
     "3. Resource/시스템/📖 Second Brain 사용 가이드.md",
@@ -210,11 +216,6 @@
     "4. Archive/2026 비전보드 관련",
     "Daily/2026_05/2026-05-01.md",
     "2. Area/개인글/2026-04 독서 계획.md",
-    "2. Area/개인글/독후감/모순.md",
-    "2. Area/개인글/독후감/삶으로 다시 날아오르기.md",
-    "2. Area/개인글/독후감/The Secret.md",
-    "2. Area/개인글/독후감/아몬드.md",
-    "4. Archive/Templates/Daily Note.md",
     "1. Project/소설",
     "Daily/2026_05",
     "Daily/2026_04/2026-04-16.md.tmp.5.1776302385387",
@@ -223,7 +224,6 @@
     "무제.canvas",
     "무제 1.canvas",
     "0. Inbox/무제.base",
-    "3. Resource/시스템/📖 Second Brain 사용 가이드.md.tmp.5.1776193443109",
     "Pasted image 20231020030728.png"
   ]
 }
