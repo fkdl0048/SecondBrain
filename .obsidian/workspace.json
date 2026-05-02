@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-05-02.md",
+                "file": "1. Project/비주얼 샌드박스/비주얼 샌드박스 HUB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-05-02"
+              "title": "비주얼 샌드박스 HUB"
             }
           }
         ]
@@ -183,8 +183,8 @@
   },
   "active": "97bb756eed38c1cc",
   "lastOpenFiles": [
-    "4. Archive/Templates/Daily Note.md",
     "0. Inbox/2026-05-02.md",
+    "4. Archive/Templates/Daily Note.md",
     "1. Project/MiniCard/📋 MiniCard Hub.md",
     "1. Project/비주얼 샌드박스/Unity Shader Graph 관련 정리.md",
     "1. Project/비주얼 샌드박스/비주얼 샌드박스 HUB.md",
