@@ -49,8 +49,7 @@
               "title": "📋 MiniCard Hub"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,10 +209,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2502f081986a319f",
+  "active": "97bb756eed38c1cc",
   "lastOpenFiles": [
-    "0. Inbox/2026-05-02.md",
     "1. Project/MiniCard/📋 MiniCard Hub.md",
+    "0. Inbox/2026-05-02.md",
     "Daily/2026_04/2026-04-12.md",
     "Daily/2026_04/26년 4월 데일리 노트 정리.md",
     "1. Project/MiniCard/MiniCard 개발 우선순위.md",
