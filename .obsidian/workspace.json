@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "44b711f77e298079",
+        "id": "4892ef5dd1101f76",
         "type": "tabs",
         "children": [
           {
-            "id": "97bb756eed38c1cc",
+            "id": "2f3c6944bb5dd32b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -181,12 +181,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3f8623a79c8c1c95",
+  "active": "2f3c6944bb5dd32b",
   "lastOpenFiles": [
+    "0. Inbox/2026-05 독서 계획.md",
+    "4. Archive/Templates/Game Dev Log.md",
+    "4. Archive/Templates/Idea Note.md",
+    "4. Archive/Templates/Meeting Notes.md",
+    "4. Archive/Templates/ZettelKasten.md",
+    "0. Inbox/2026-05-02.md",
     "1. Project/MiniCard/📋 MiniCard Hub.md",
     "1. Project/VisualSandbox/Unity Shader Graph 관련 정리.md",
-    "0. Inbox/2026-05-02.md",
-    "0. Inbox/2026-05 독서 계획.md",
     "1. Project/VisualSandbox/비주얼 샌드박스 HUB.md",
     "4. Archive/Templates/Daily Note.md",
     "1. Project/VisualSandbox",
@@ -209,10 +213,6 @@
     "1. Project/유튜브/유튜브 채널 계획안 수립.md",
     "1. Project/유튜브/정치",
     "1. Project/유튜브",
-    "1. Project/소설/무제.md",
-    "1. Project/소설/소설 아이디어.md",
-    "0. Inbox/위대한 수업.md",
-    "0. Inbox/누가 리더인가 조지프나이.md",
     "1. Project/MiniCard",
     "4. Archive/2026 비전보드 관련/모바일 배경.png",
     "4. Archive/2026 비전보드 관련/컴퓨터 배경.png",
