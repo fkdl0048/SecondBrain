@@ -22,49 +22,21 @@
             }
           },
           {
-            "id": "ba7cd0e18cfb4fd0",
+            "id": "a2e90d24f81f168e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/위대한 수업.md",
+                "file": "1. Project/MiniCard/📋 MiniCard Hub.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "위대한 수업"
-            }
-          },
-          {
-            "id": "c9333e934c2d2352",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/누가 리더인가 조지프나이.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "누가 리더인가 조지프나이"
-            }
-          },
-          {
-            "id": "e4c2909d5df5942e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/위대한 수업.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "위대한 수업"
+              "title": "📋 MiniCard Hub"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,10 +196,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c9333e934c2d2352",
+  "active": "a2e90d24f81f168e",
   "lastOpenFiles": [
-    "0. Inbox/위대한 수업.md",
     "0. Inbox/2026-05-03.md",
+    "0. Inbox/위대한 수업.md",
     "0. Inbox/누가 리더인가 조지프나이.md",
     "2. Area/개인글/독후감/철학의 쓸모.md",
     "0. Inbox/2026-05 독서 계획.md",
