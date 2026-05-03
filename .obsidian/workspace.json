@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "2026-05-03"
             }
+          },
+          {
+            "id": "e4c2909d5df5942e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/누가 리더인가 조지프나이.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "누가 리더인가 조지프나이"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -181,10 +196,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0547e9a58d1bf53",
+  "active": "e4c2909d5df5942e",
   "lastOpenFiles": [
-    "2. Area/개인글/독후감/철학의 쓸모.md",
     "0. Inbox/2026-05-03.md",
+    "0. Inbox/누가 리더인가 조지프나이.md",
+    "0. Inbox/위대한 수업.md",
+    "2. Area/개인글/독후감/철학의 쓸모.md",
     "0. Inbox/2026-05 독서 계획.md",
     "2. Area/개인글/독후감/삶으로 다시 날아오르기.md",
     "Daily/2026_04/26년 4월 데일리 노트 정리.md",
@@ -208,8 +225,6 @@
     "4. Archive/GameOver/📋 GameOver Hub.md",
     "4. Archive/GameOver/기획/기획 회의 관련.md",
     "4. Archive/GameOver/개발일지/프로젝트 개발 일지(GameOver).md",
-    "버그.md",
-    "개발일지 1.md",
     "1. Project/MiniCard/버그",
     "1. Project/유튜브/정치",
     "1. Project/유튜브",
