@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "f0547e9a58d1bf53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/2026-05-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-05"
-            }
-          },
-          {
             "id": "167ca7038ca2134b",
             "type": "leaf",
             "state": {
@@ -41,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/주식 투자.md",
+                "file": "0. Inbox/2026-05-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "주식 투자"
+              "title": "2026-05-05"
             }
           },
           {
@@ -120,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -282,8 +268,8 @@
   },
   "active": "c0f8ecbc31cbceb8",
   "lastOpenFiles": [
-    "0. Inbox/투자 Hub.md",
     "0. Inbox/주식 투자.md",
+    "0. Inbox/투자 Hub.md",
     "0. Inbox/코인 투자.md",
     "1. Project/투자",
     "0. Inbox/2026-05-05.md",
