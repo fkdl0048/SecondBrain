@@ -4,123 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "09bce8d8aea57769",
+        "id": "0380a8d63a7ac25b",
         "type": "tabs",
         "children": [
           {
-            "id": "167ca7038ca2134b",
+            "id": "a886b3d5791aaff0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/투자 Hub.md",
+                "file": "0. Inbox/2026-05-06.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "투자 Hub"
-            }
-          },
-          {
-            "id": "c0f8ecbc31cbceb8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/2026-05-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-05"
-            }
-          },
-          {
-            "id": "deb3d714f22ea3e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/2026-05-05.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-05"
-            }
-          },
-          {
-            "id": "02d1b89168e6f0b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/코인 투자.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "코인 투자"
-            }
-          },
-          {
-            "id": "e6948432003317a3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/투자 연습.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "투자 연습"
-            }
-          },
-          {
-            "id": "2822c49b9a16a773",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0. Inbox/2026-05-04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-05-04"
-            }
-          },
-          {
-            "id": "718e297b8da23205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/MiniCard/📋 MiniCard Hub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📋 MiniCard Hub"
-            }
-          },
-          {
-            "id": "a2e90d24f81f168e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/MiniCard/📋 MiniCard Hub.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "📋 MiniCard Hub"
+              "title": "2026-05-06"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -280,21 +181,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "deb3d714f22ea3e3",
+  "active": "a886b3d5791aaff0",
   "lastOpenFiles": [
-    "0. Inbox/2026-05-06.md",
-    "0. Inbox/2026-05-05.md",
     "0. Inbox/게임 출시 전 데모 관련 필독 사항.md",
+    "1. Project/MiniCard/📋 MiniCard Hub.md",
+    "0. Inbox/2026-05-04.md",
+    "0. Inbox/투자 연습.md",
+    "0. Inbox/코인 투자.md",
+    "0. Inbox/2026-05-05.md",
+    "0. Inbox/2026-05-06.md",
     "0. Inbox/무제.md",
     "0. Inbox/주식 투자.md",
     "0. Inbox/투자 Hub.md",
-    "0. Inbox/코인 투자.md",
     "1. Project/투자",
-    "0. Inbox/2026-05-04.md",
-    "0. Inbox/투자 연습.md",
     "0. Inbox/2026-05-03.md",
     "1. Project/VisualSandbox/비주얼 샌드박스 HUB.md",
-    "1. Project/MiniCard/📋 MiniCard Hub.md",
     "0. Inbox/위대한 수업.md",
     "1. Project/MiniCard/MiniCard 기획.md",
     "0. Inbox/누가 리더인가 조지프나이.md",
