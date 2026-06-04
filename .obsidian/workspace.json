@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-06-05.md",
+                "file": "0. Inbox/2026-06 독서 계획.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-06-05"
+              "title": "2026-06 독서 계획"
             }
           }
         ],
@@ -224,10 +224,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d08745f116ce7f0e",
+  "active": "3f8623a79c8c1c95",
   "lastOpenFiles": [
-    "0. Inbox/건강한 식단.md",
+    "2. Area/개인글/2026-05 독서 계획.md",
+    "0. Inbox/2026-06 독서 계획.md",
+    "0. Inbox 1/건강한 식단.md",
+    "0. Inbox 1/2026-06-05.md",
+    "0. Inbox 1",
     "0. Inbox/2026-06-05.md",
+    "0. Inbox/건강한 식단.md",
     "3. Resource/Game/game ai studio.md",
     "3. Resource/github io 블로그 관련.md",
     "3. Resource/Game/게임 출시 전 데모 관련 필독 사항.md",
@@ -243,7 +248,6 @@
     "Daily/2026_05/2026-05-17.md",
     "Daily/2026_05/2026-05-20.md",
     "1. Project/투자/투자 Hub.md",
-    "2. Area/개인글/2026-05 독서 계획.md",
     "1. Project/투자/주식 투자.md",
     "1. Project/투자/투자 연습.md",
     "Daily/2026_05/2026-05-14.md",
@@ -251,9 +255,6 @@
     "Daily/2026_05/2026-05-03.md",
     "2. Area/개인글/독후감/괴테는 모든 것을 말했다.md",
     "Daily/2026_05/2026-05-13.md",
-    "Daily/2026_05/2026-05-05.md",
-    "Daily/2026_05/2026-05-06.md",
-    "Daily/2026_05/2026-05-07.md",
     "1. Project/투자",
     "1. Project/VisualSandbox",
     "1. Project/MiniCard/버그",
@@ -263,7 +264,6 @@
     "4. Archive/2026 비전보드 관련/모바일 배경.png",
     "4. Archive/2026 비전보드 관련/컴퓨터 배경.png",
     "4. Archive/2026 비전보드 관련",
-    "1. Project/소설",
     "무제 파일.canvas",
     "무제.canvas",
     "무제 1.canvas",
