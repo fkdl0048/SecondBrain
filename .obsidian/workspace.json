@@ -62,9 +62,23 @@
               "icon": "lucide-file",
               "title": "2026-06-06"
             }
+          },
+          {
+            "id": "ab4540f120b48400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0. Inbox/무제.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "무제"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -224,10 +238,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d08745f116ce7f0e",
+  "active": "ab4540f120b48400",
   "lastOpenFiles": [
-    "0. Inbox/2026-06-05.md",
     "0. Inbox/2026-06-06.md",
+    "0. Inbox/무제.md",
+    "0. Inbox/2026-06-05.md",
     "Daily/2026_05/2026-05-20.md",
     "Daily/2026_05/2026-05-24.md",
     "0. Inbox/2026-06 독서 계획.md",
@@ -245,7 +260,6 @@
     "1. Project/위대한 수업",
     "2. Area/개인글/독후감/아주 작은 습관의 힘.md",
     "2. Area/개인글/독후감/여름.md",
-    "0. Inbox/무제.md",
     "0. Inbox/더 기버.md",
     "Daily/2026_05/2026-05-17.md",
     "1. Project/투자/투자 Hub.md",
