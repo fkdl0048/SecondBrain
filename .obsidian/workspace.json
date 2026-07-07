@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "639d88bea0357ec7",
+        "id": "c1a50e68b2973707",
         "type": "tabs",
         "children": [
           {
-            "id": "e3f8003a4b17cc96",
+            "id": "4f3938e08267ffcf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Project/헬스/헬스 가이드.md",
+                "file": "0. Inbox/2026-07-07.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "헬스 가이드"
+              "title": "2026-07-07"
             }
           }
         ]
@@ -171,8 +171,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e3f8003a4b17cc96",
+  "active": "4f3938e08267ffcf",
   "lastOpenFiles": [
+    "1. Project/헬스/헬스 가이드.md",
     "1. Project/헬스/헬스 관련 Hub.md",
     "1. Project/헬스/헬스 기록.md",
     "0. Inbox/2026-07-07.md",
@@ -194,7 +195,6 @@
     "1. Project/메이플 월드 게임잼/메이플 월드 게임잼 정리.md",
     "1. Project/메이플 월드 게임잼",
     "Daily/2026_06/2026-06-25.md",
-    "1. Project/헬스/헬스 가이드.md",
     "4. Archive/건강한 식단.md",
     "Daily/2026_06/2026-06 독서 계획.md",
     "Daily/2026_06",
