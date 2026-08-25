@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c1a50e68b2973707",
+        "id": "103571e99a7aaf32",
         "type": "tabs",
         "children": [
           {
-            "id": "4f3938e08267ffcf",
+            "id": "8afc0bc3e18c7f49",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. Inbox/2026-07-08.md",
+                "file": "0. Inbox/2026-08-25.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-08"
-            }
-          },
-          {
-            "id": "1ec28980b773e06e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Project/메이플 월드 게임잼/메이플 월드 게임잼 정리.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "메이플 월드 게임잼 정리"
+              "title": "2026-08-25"
             }
           }
         ]
@@ -55,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -185,15 +173,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4f3938e08267ffcf",
+  "active": "8afc0bc3e18c7f49",
   "lastOpenFiles": [
-    "0. Inbox/2026-07-07.md",
+    "0. Inbox/무제.md",
+    "1. Project/메이플 월드 게임잼/메이플 월드 게임잼 정리.md",
+    "0. Inbox/2026-08-25.md",
+    "Daily/2026_07/2026-07-08.md",
+    "0. Inbox/2026-08-24-review.md",
+    "Daily/2026_07",
+    "Daily/2026_07/2026-07-07.md",
     "0. Inbox/2026-07-08-review.md",
     "0. Inbox/2026-07-08-review.md.tmp.27228.15ac85188f85",
-    "0. Inbox/2026-07-08.md",
-    "1. Project/메이플 월드 게임잼/메이플 월드 게임잼 정리.md",
     "2. Area/개인글/독후감/아주 작은 습관의 힘.md",
-    "0. Inbox/2026-07-06.md",
+    "Daily/2026_07/2026-07-06.md",
     "1. Project/헬스/헬스 가이드.md",
     "1. Project/헬스/헬스 관련 Hub.md",
     "1. Project/헬스/헬스 기록.md",
@@ -201,8 +193,8 @@
     "0. Inbox/2026-07-06-review.md",
     "0. Inbox/2026-07-07-review.md.tmp.27760.f20286ce54b3",
     "0. Inbox/2026-07-06-review.md.tmp.3812.8d12c52c6c2c",
-    "0. Inbox/2026-07-03.md",
-    "0. Inbox/2026-07-04.md",
+    "Daily/2026_07/2026-07-03.md",
+    "Daily/2026_07/2026-07-04.md",
     "0. Inbox/2026-07-04-review.md",
     "0. Inbox/2026-07-04-review.md.tmp.23876.3f26b8687370",
     "Daily/Review/2026-07-04-review.md",
@@ -218,11 +210,7 @@
     "1. Project/투자/투자 Hub.md",
     "1. Project/투자/투자 연습.md",
     "1. Project/투자/코인 투자.md",
-    "1. Project/투자/주식 투자.md",
     "1. Project/헬스",
-    "Daily/2026_06/2026-06-06.md",
-    "2. Area/개인글/독후감/여름.md",
-    "0. Inbox 1",
     "4. Archive/2026 비전보드 관련/모바일 배경.png",
     "4. Archive/2026 비전보드 관련/컴퓨터 배경.png",
     "무제 파일.canvas",
